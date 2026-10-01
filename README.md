@@ -28,7 +28,7 @@ I was responsible for:
 
 *Note: The map models shown are only a selection of the map models I created. They do not represent all map models used in the final game.*
 
-#Tools
+# Tools
 - Blender (modelling, rigging, animation)
 
 #  Academic Context
